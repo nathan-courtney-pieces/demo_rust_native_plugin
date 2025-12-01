@@ -1,0 +1,22 @@
+PODS:
+  - demo_rust_native_plugin (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+
+DEPENDENCIES:
+  - demo_rust_native_plugin (from `Flutter/ephemeral/.symlinks/plugins/demo_rust_native_plugin/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+
+EXTERNAL SOURCES:
+  demo_rust_native_plugin:
+    :path: Flutter/ephemeral/.symlinks/plugins/demo_rust_native_plugin/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+
+SPEC CHECKSUMS:
+  demo_rust_native_plugin: 795d37264a82de29d6924e4b51a597b6a17e7a49
+  FlutterMacOS: d0db08ddef1a9af05a5ec4b724367152bb0500b1
+
+PODFILE CHECKSUM: 54d867c82ac51cbd61b565781b9fada492027009
+
+COCOAPODS: 1.16.2

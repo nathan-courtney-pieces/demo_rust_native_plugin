@@ -1,0 +1,11 @@
+name: native_build
+publish_to: none
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  hooks: ^1.0.0
+  code_assets: ^1.0.0
+  http: ^1.2.0
+  path: ^1.9.0
