@@ -46,7 +46,7 @@ jobs:
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
-        working-directory: rust
+        #        working-directory: rust
         with:
           name: macos-universal
           path: rust/lib*_macos_universal.dylib
